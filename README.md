@@ -1,6 +1,6 @@
 # LuminaLUT Matcher
 
-![LuminaLUT](https://raw.githubusercontent.com/nottmi/LUTMatcher/main/LuminaLUT.png)
+![LuminaLUT](https://raw.githubusercontent.com/rbourel/LUTMatcher/main/LuminaLUT.png)
 
 LuminaLUT Matcher is a web-based tool for color grading enthusiasts and professional video editors. It allows you to take a reference image with a desired color aesthetic and apply it to your own footage, generating a `.cube` LUT file for use in any professional video editing software.
 
