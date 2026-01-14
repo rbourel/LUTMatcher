@@ -1,0 +1,5 @@
+{
+  "name": "LuminaLUT Generator",
+  "description": "Professional-grade color grading tool that generates .cube LUTs by matching the histogram profiles of reference images. Features AI-powered color analysis and real-time previews.",
+  "requestFramePermissions": []
+}
